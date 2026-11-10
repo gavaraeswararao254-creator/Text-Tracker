@@ -1,0 +1,27 @@
+{
+  "old": "Appxe\r\nBanana\r\nMango",
+  "new": "Apple\r\nMango\r\ngrapes",
+  "changes": [
+    [
+      "Modified",
+      "1-2",
+      "1-1",
+      "Appxe\nBanana",
+      "Apple"
+    ],
+    [
+      "Unchanged",
+      "3-3",
+      "2-2",
+      "Mango",
+      "Mango"
+    ],
+    [
+      "Added",
+      "-",
+      "3-3",
+      "",
+      "grapes"
+    ]
+  ]
+}
